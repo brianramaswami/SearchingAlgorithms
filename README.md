@@ -5,6 +5,6 @@
         Breadth First Search
         Depth First Search
         Dijkstras Algorithm
-        Equclidean Distance
+        Euclidean Distance
         Manhattan Distance
 
